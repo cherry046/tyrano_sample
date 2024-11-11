@@ -36,6 +36,8 @@
 
 【 苦しみ END 】[l][cm]
 
+[jump target=*start]
+
 *tag_bath
 
 [cm]
@@ -48,4 +50,5 @@
 
 【 奇行 END 】[l][cm]
 
+[jump target=*start]
 [jump target=*start]
